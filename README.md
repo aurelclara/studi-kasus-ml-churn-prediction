@@ -6,7 +6,7 @@ jenis-jenis pembelajaran mesin, alur kerja ML, metrik evaluasi, dan pertimbangan
 menggunakan `pandas`, `numpy`, dan `scikit-learn`.
 
 🔗 Laporan HTML:
-https://aurelclara.github.io/studi-kasus-gis-faskes
+https://aurelclara.github.io/studi-kasus-ml-churn-prediction/
 
 ## Kerangka CRISP-DM
 
